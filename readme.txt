@@ -1,0 +1,3 @@
+These assignments were given from basic natural language process course at Sogang University in 2019 spring semester. I used NLTK to study how natural language process works in basic level. The first assignment was to take specific numbers of characters and lines from provided text corpus. And the second one was to train Korean word with Naive Bayes Classifier.
+To train the data, Korean words and tags for each word were provided(datas were from Naver NLP chellenge 2018). My task was to obtain the result as higher than 83% accuracy. I preprocessed data for the program to recognize which words and tags should be matched.
+* In this class, inplementing training by using machine learning library is more focused than mathematical theory because it was literally basic level.
